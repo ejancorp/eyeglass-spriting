@@ -37,7 +37,7 @@
     "should": "^7.1.0"
   },
   "dependencies": {
-    "lwip": "^0.0.8",
+    "lwip": "^0.0.9",
     "node-sass-utils": "^1.1.2",
     "minimatch": "^2.0.8"
   },
